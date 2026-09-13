@@ -1,0 +1,6 @@
+{
+  "name": "AI 패션 스타일리스트 (Collab Style)",
+  "description": "AI와 실시간 대화하며 취향과 상황을 파악하고, 상의/하의/신발/악세사리 등 카테고리별 맞춤 의상을 추천받는 대화형 패션 코디 플랫폼",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
